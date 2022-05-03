@@ -66,6 +66,6 @@ public class PageLayerHomepage extends Homepage {
     }
   
     public void sendMsg() {
-    	 sendmsg.click();//
+    	 sendmsg.click();/////
     }
 }
